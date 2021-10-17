@@ -1,4 +1,3 @@
-### Hi there 👋
 #Hola, Soy Javier Serrano.
 
 ###Desarrollador Full Stack Java Jr.
