@@ -7,7 +7,7 @@ Soy del Estado de México, tengo principales conocimientos en tecnologias Fronte
 Contactame en una de mis redes sociales o mandame un correo ya sea que tengas una pregunta o simplemente quieras saludar, ¡haré todo lo posible por responderle!
 
 
-### [LinkedIn](https://www.linkedin.com/in/javiersadev/) / [Facebook](https://www.facebook.com/JavierSADev) / [Instagram](https://www.instagram.com/javiersadev/) ó contacto@javieredusa.com
+### [LinkedIn](https://www.linkedin.com/in/javiersadev/) / [Facebook](https://www.facebook.com/JavierSADev) / [Instagram](https://www.instagram.com/javiersadev/) ó contacto@javiersadev.com
 
 
 
