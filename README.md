@@ -1,15 +1,16 @@
-#Hola, Soy Javier Serrano.
+# Hola, Soy Javier Serrano.
 
-###Desarrollador Full Stack Java Jr.
+### Desarrollador Full Stack Java Jr.
 
 Soy del Estado de México, tengo principales conocimientos en tecnologias Frontend. Actual estudiante de Desarrollo de Software además de programador autodidacta que disfruta el hacer proyectos con tecnologías web.
 
-Contactame:
+Contactame en una de mis redes sociales o mandame un correo ya sea que tengas una pregunta o simplemente quieras saludar, ¡haré todo lo posible por responderle!
 
 
-##[:fa-linkedin:](https://www.linkedin.com/in/javiersadev/) [:fa-facebook-square:](https://www.facebook.com/JavierSADev) [:fa-instagram:](https://www.instagram.com/javiersadev/)
-o mandame un correo ya sea que tenga una pregunta o simplemente quieras saludar, ¡haré todo lo posible por responderle!
-####:fa-envelope: contacto@javieredusa.com
+### [LinkedIn](https://www.linkedin.com/in/javiersadev/) / [Facebook](https://www.facebook.com/JavierSADev) / [Instagram](https://www.instagram.com/javiersadev/) / [Correo](contacto@javieredusa.com)
+
+
+
 
 <!--
 **JavierSerranoAlvarado/JavierSerranoAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
